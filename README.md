@@ -2,8 +2,6 @@
 
 基于 Spring Cloud Alibaba + Spring AI 的全栈票务系统，包含高并发微服务后端、AI 智能助手和多端前端。
 
-> **Author**: Song <2212565023@qq.com> · [GitHub](https://github.com/LittleSongxx/damai)
-
 ---
 
 ## 架构总览
